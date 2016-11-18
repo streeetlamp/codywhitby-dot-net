@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/streetlamp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://codywhitby.net
+  * I am streetlamp (https://keybase.io/streetlamp) on keybase.
+  * I have a public key ASDL39xty2YTG694dFyVyTmXs53rIRI-ync3hWjfRCfKBAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120cbdfdc6dcb66131baf78745c95c93997b39deb21123eca77378568df4427ca040a",
+            "host": "keybase.io",
+            "kid": "0120cbdfdc6dcb66131baf78745c95c93997b39deb21123eca77378568df4427ca040a",
+            "uid": "246fce730d7787b83d3506aa6b845419",
+            "username": "streetlamp"
+        },
+        "service": {
+            "hostname": "codywhitby.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1479505209,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1479505200,
+        "hash": "031fd5537241eda3a0fa50ae3d302740b2707cbf07194a3c8a2455436d9f7db123204037909e7c284268fb55e29929e36ed319e549729186b7a7cca4842bfca9",
+        "seqno": 724094
+    },
+    "prev": "8683a9bd53a4442a5f3c25adff6393948170d9629db0615c71c16524d6ed5ddd",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgy9/cbctmExuveHRclck5l7Od6yESPsp3N4Vo30QnygQKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2JkZmRjNmRjYjY2MTMxYmFmNzg3NDVjOTVjOTM5OTdiMzlkZWIyMTEyM2VjYTc3Mzc4NTY4ZGY0NDI3Y2EwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2JkZmRjNmRjYjY2MTMxYmFmNzg3NDVjOTVjOTM5OTdiMzlkZWIyMTEyM2VjYTc3Mzc4NTY4ZGY0NDI3Y2EwNDBhIiwidWlkIjoiMjQ2ZmNlNzMwZDc3ODdiODNkMzUwNmFhNmI4NDU0MTkiLCJ1c2VybmFtZSI6InN0cmVldGxhbXAifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvZHl3aGl0YnkubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ3OTUwNTIwOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc5NTA1MjAwLCJoYXNoIjoiMDMxZmQ1NTM3MjQxZWRhM2EwZmE1MGFlM2QzMDI3NDBiMjcwN2NiZjA3MTk0YTNjOGEyNDU1NDM2ZDlmN2RiMTIzMjA0MDM3OTA5ZTdjMjg0MjY4ZmI1NWUyOTkyOWUzNmVkMzE5ZTU0OTcyOTE4NmI3YTdjY2E0ODQyYmZjYTkiLCJzZXFubyI6NzI0MDk0fSwicHJldiI6Ijg2ODNhOWJkNTNhNDQ0MmE1ZjNjMjVhZGZmNjM5Mzk0ODE3MGQ5NjI5ZGIwNjE1YzcxYzE2NTI0ZDZlZDVkZGQiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDnVYZMA7EvM2dUNVMvQD8yX77APqH5xu4KJwrkh6ngApZZLZYdg61vb31p/BMkrvqdd07/9v86KX4sJigw3PcPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgb2H0/sadETmgYlE7wWsxAH/MWZWU5VPVgSAtz7Z0wXyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/streetlamp
+
+==================================================================
